@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="button">Generate Password</string>
+    <string name="password_here">Your Password</string>
+    <string name="background">background</string>
+    <string name="lengthValue">4</string>
+</resources>
