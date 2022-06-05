@@ -17,14 +17,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     int passwordLength=4;
-    //This is used to take length of password
-    //If not selected the default length value is 8.
-
-//    public void lengthOut(int passwordLength){
-//        TextView length =(TextView)findViewById(R.id.lengthOutput);
-//        length.setText(passwordLength);
-
-//    }
 
     public void add(View view){
         if(passwordLength<8){
